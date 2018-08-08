@@ -37,7 +37,7 @@ class BillingHelper {
 				return 24;
 				break;
 			case "Triennially":
-				return 32;
+				return 36;
 				break;
 			case "One Time":
 				return 0;
